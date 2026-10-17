@@ -1,0 +1,12 @@
+{
+  "FIREBASE_API_KEY": "AIzaSyBhBaQV8IBJ-L-CbPY69FYhKHU7ecgRba0",
+  "FIREBASE_APP_ID": "1:531680073782:android:2d4b41c6a3b3ff1b972097",
+  "FIREBASE_MESSAGING_SENDER_ID": "531680073782",
+  "FIREBASE_PROJECT_ID": "my-personal-finance-app-1ff47",
+  "FIREBASE_STORAGE_BUCKET": "my-personal-finance-app-1ff47.firebasestorage.app",
+  "FIREBASE_IOS_BUNDLE_ID": "com.example.myPersonalFinanceApp",
+  "GOOGLE_WEB_CLIENT_ID": "531680073782-j3hgmdaju4fcnvg3hpm64onm6e09a64g.apps.googleusercontent.com",
+  "GOOGLE_ANDROID_CLIENT_ID": "",
+  "GOOGLE_IOS_CLIENT_ID": "531680073782-2joitqrqb45fkv3po4qsb665fcoophu7.apps.googleusercontent.com",
+  "ADMIN_EMAIL": "tu@gmail.com"
+}

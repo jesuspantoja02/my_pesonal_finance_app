@@ -1,0 +1,81 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Cursor / IDE local
+.cursor/
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication / obfuscation
+app.*.symbols
+app.*.map.json
+
+# Android Studio build outputs
+/android/app/debug
+/android/app/profile
+/android/app/release
+/android/local.properties
+/android/.gradle/
+/android/build/
+/android/captures/
+/android/key.properties
+**/*.keystore
+**/*.jks
+
+# APK / AAB (distribuir vía GitHub Releases, no en el repo)
+*.apk
+*.aab
+
+# iOS / macOS local
+**/Pods/
+**/DerivedData/
+ios/Flutter/ephemeral/
+macos/Flutter/ephemeral/
+linux/flutter/ephemeral/
+windows/flutter/ephemeral/
+
+# Firebase / secretos y configuración local
+config/firebase_defines.json
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+admin_web/.env
+admin_web/node_modules/
+admin_web/dist/
+functions/.env
+functions/node_modules/
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+**/serviceAccountKey.json
+**/*-firebase-adminsdk-*.json
+
+# Node (raíz u otros)
+node_modules/
